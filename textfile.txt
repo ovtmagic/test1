@@ -17,15 +17,9 @@ test 7
 
 test 8
 
-<<<<<<< HEAD
+
 probando fetch - master
-=======
-probando fetch - prueba
-<<<<<<< HEAD
->>>>>>> refs/heads/prueba
 
-
-otra linea
-=======
+cambiado 
 no se
->>>>>>> refs/heads/prueba
+no se otra vez
